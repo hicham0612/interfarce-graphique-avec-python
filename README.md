@@ -1,1 +1,5 @@
-# Createur-de-mot-de-passe
+<!-- innitialisation du depot -->
+
+''' bash
+git init
+  '''
